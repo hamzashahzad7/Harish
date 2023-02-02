@@ -1,0 +1,2957 @@
+@media (max-width:1024px) {
+
+    nav {
+        width : 100%;
+        height: 75px;
+
+
+    }
+
+    .nav-h {
+
+        font-size: 54px;
+        position : absolute;
+        top      : 2%;
+        left     : 1%;
+    }
+
+    .nav-ul {
+
+        position: absolute;
+        left    : 22%;
+        top     : 30%;
+
+    }
+
+    .nav-ul li {
+
+        float    : left;
+        font-size: 26px;
+    }
+
+    .nav-icon1 {
+        position : absolute;
+        top      : 29%;
+        left     : 83%;
+        font-size: 37px;
+
+    }
+
+    .nav-icon2 {
+        position     : absolute;
+        top          : 29%;
+        left         : 89%;
+        font-size    : 37px;
+        border-radius: 7px;
+    }
+
+    .nav-icon3 {
+        position : absolute;
+        top      : 29%;
+        left     : 95%;
+        font-size: 37px;
+    }
+
+    header {
+        width              : 100%;
+        height             : 86vh;
+        background-image   : linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.609)), url(../img/intro-bg.jpg);
+        background-size    : cover;
+        background-position: center;
+        position           : relative;
+
+    }
+
+    .header-main {
+
+        transform : translate(-50%, -50%);
+        top       : 50%;
+        left      : 50%;
+        position  : absolute;
+        text-align: center;
+    }
+
+    .header-h1 {
+        color         : white;
+        font-size     : 82px;
+        word-spacing  : 20px;
+        text-transform: capitalize;
+        margin-bottom : 53px;
+    }
+
+    .header-h2 {
+        font-size    : 78px;
+        word-spacing : 20px;
+        margin-bottom: 85px;
+    }
+
+    .header-btn {
+        padding  : 23px;
+        font-size: 35px;
+    }
+
+    .about {
+        width           : 100%;
+        height          : 110vh;
+        background-color: rgb(255, 255, 255);
+        position        : relative;
+    }
+
+    .about-p1 {
+        width    : 22%;
+        height   : 4%;
+        top      : 6%;
+        left     : 38%;
+        font-size: 42px;
+    }
+
+
+
+    .about-h1 {
+        font-size   : 53px;
+        top         : 12%;
+        left        : 33%;
+        word-spacing: 20px;
+    }
+
+
+    .about-h2 {
+        color       : black;
+        font-size   : 45px;
+        position    : absolute;
+        left        : 29%;
+        top         : 26%;
+        word-spacing: 20px;
+    }
+
+    .about-p2 {
+        width     : 69%;
+        top       : 33%;
+        left      : 15%;
+        font-size : 33px;
+        text-align: center;
+    }
+
+    .about-box1 {
+        width : 21%;
+        height: 90px;
+        top   : 85%;
+        left  : 1%;
+
+    }
+
+    .about-box2 {
+        width   : 22%;
+        height  : 110px;
+        position: absolute;
+        top     : 85%;
+        left    : 25%;
+
+    }
+
+    .about-box3 {
+        width   : 24%;
+        height  : 140px;
+        position: absolute;
+        top     : 85%;
+        left    : 51%;
+
+    }
+
+    .about-box4 {
+        width   : 18%;
+        height  : 150px;
+        position: absolute;
+        top     : 84%;
+        left    : 80%;
+
+    }
+
+    .abt-box-p {
+        font-size    : 35px;
+        margin-bottom: 10px;
+    }
+
+    .abt-box-h {
+        font-size: 34px;
+    }
+
+    .about-right {
+        /* border: 1px solid black; */
+        width   : 36%;
+        height  : 315px;
+        position: absolute;
+        top     : 56%;
+        left    : 34%;
+    }
+
+    .abt-icon {
+        font-size: 273px;
+        top      : 0%;
+        left     : 9%;
+    }
+
+    .about-right-h1 {
+        position : absolute;
+        left     : 30%;
+        top      : 0%;
+        font-size: 114px;
+    }
+
+    .about-right-h2 {
+        position : absolute;
+        left     : 0%;
+        top      : 53%;
+        font-size: 46px;
+
+    }
+
+
+
+    .service {
+        width : 100%;
+        height: 95vh;
+    }
+
+    .service-main-p {
+        padding  : 4px;
+        left     : 41%;
+        top      : 4%;
+        font-size: 42px;
+    }
+
+    .service-main-h {
+
+        left     : 22%;
+        top      : 11%;
+        font-size: 47px;
+    }
+
+    .web {
+        left: 3%;
+    }
+
+    .service-box1 {
+
+        width : 30%;
+        height: 400px;
+        top   : 22%;
+        left  : 4%;
+
+    }
+
+    .service-box2 {
+
+        width     : 30%;
+        height    : 400px;
+        position  : absolute;
+        top       : 22%;
+        left      : 36%;
+        text-align: center;
+    }
+
+    .service-box3 {
+
+        width     : 30%;
+        height    : 400px;
+        position  : absolute;
+        top       : 22%;
+        left      : 68%;
+        text-align: center;
+    }
+
+    .service-box4 {
+
+        width     : 30%;
+        height    : 400px;
+        position  : absolute;
+        top       : 60%;
+        left      : 4%;
+        text-align: center;
+    }
+
+    .service-box5 {
+
+        width     : 30%;
+        height    : 400px;
+        position  : absolute;
+        top       : 60%;
+        left      : 36%;
+        text-align: center;
+    }
+
+    .service-box6 {
+
+        width     : 30%;
+        height    : 400px;
+        position  : absolute;
+        top       : 60%;
+        left      : 68%;
+        text-align: center;
+    }
+
+    .service-icon {
+
+        font-size: 62px;
+        top      : 0%;
+        left     : 36%;
+    }
+
+    .service-box-h {
+        position : absolute;
+        top      : 22%;
+        font-size: 36px;
+        left     : 13%;
+    }
+
+
+    .service-box-p {
+        position : absolute;
+        top      : 48%;
+        width    : 94%;
+        font-size: 23px;
+        left     : 3%;
+    }
+
+    .resume {
+        width              : 100%;
+        height             : 155vh;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .resume-main-p {
+        padding  : 5px;
+        left     : 43%;
+        top      : 4%;
+        font-size: 41px;
+    }
+
+
+    .resume-main-h {
+        font-size: 49px;
+        top      : 9%;
+        left     : 27%;
+
+    }
+
+    .resume-h1 {
+
+        top         : 18%;
+        left        : 5%;
+        font-size   : 47px;
+        word-spacing: 13px;
+    }
+
+    .resume-h2 {
+        top      : 18%;
+        left     : 57%;
+        font-size: 47px;
+    }
+
+    .resume-line1 {
+
+        width : 4px;
+        height: 50%;
+        top   : 25%;
+        left  : 5%;
+    }
+
+    .resume-line2 {
+        width : 4px;
+        height: 50%;
+        top   : 25%;
+        left  : 57%;
+    }
+
+    .resume-box1 {
+
+        width   : 38%;
+        height  : 345px;
+        position: absolute;
+        top     : 25%;
+        left    : 7%;
+
+    }
+
+    .resume-box2 {
+
+        width   : 38%;
+        height  : 345px;
+        position: absolute;
+        top     : 44%;
+        left    : 7%;
+
+    }
+
+    .resume-box3 {
+
+        width   : 38%;
+        height  : 345px;
+        position: absolute;
+        top     : 62%;
+        left    : 7%;
+
+    }
+
+    .resume-box4 {
+
+        width        : 38%;
+        height       : 345px;
+        position     : absolute;
+        top          : 25%;
+        left         : 59%;
+        border-bottom: 1px solid black;
+    }
+
+    .resume-box5 {
+
+        width        : 38%;
+        height       : 345px;
+        position     : absolute;
+        top          : 44%;
+        left         : 59%;
+        border-bottom: 1px solid black;
+    }
+
+    .resume-box6 {
+
+        width        : 38%;
+        height       : 345px;
+        position     : absolute;
+        top          : 62%;
+        left         : 59%;
+        border-bottom: 1px solid black;
+    }
+
+
+
+    .resume-box-h1 {
+        position : absolute;
+        left     : 1%;
+        top      : 2%;
+        font-size: 33px;
+    }
+
+    .resume-box-h2 {
+        position : absolute;
+        left     : 1%;
+        top      : 29%;
+        font-size: 27px;
+    }
+
+    .resume-box-p {
+        position : absolute;
+        top      : 44%;
+        font-size: 26px;
+        left     : 1%;
+    }
+
+    .resume-lower {
+        width    : 100%;
+        height   : 266px;
+        position : absolute;
+        top      : 82%;
+        /* border: 1px solid black; */
+
+    }
+
+    .resume-lower-h {
+        font-size: 55px;
+        position : absolute;
+        left     : 10%;
+        top      : 10%;
+    }
+
+    .resume-lower-h2 {
+        position : absolute;
+        top      : 45%;
+        left     : 10%;
+        font-size: 38px;
+    }
+
+    .resume-lower-h3 {
+        position : absolute;
+        top      : 45%;
+        left     : 50%;
+        font-size: 38px;
+    }
+
+    .resume-lower-line1 {
+        width           : 35%;
+        height          : 10px;
+        background-color: grey;
+        position        : absolute;
+        top             : 75%;
+        left            : 10%;
+    }
+
+    .resume-lower-line2 {
+        width           : 35%;
+        height          : 10px;
+        background-color: grey;
+        position        : absolute;
+        top             : 75%;
+        left            : 50%;
+    }
+
+    .inner-line {
+        width           : 75%;
+        height          : 10px;
+        background-color: rgb(255, 217, 0);
+    }
+
+    .portfolio {
+        width              : 100%;
+        height             : 100vh;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .portfolio-main-p {
+
+        padding  : 9px;
+        left     : 42%;
+        top      : 3%;
+        font-size: 39px;
+
+    }
+
+    .portfolio-main-h {
+        left     : 21%;
+        top      : 11%;
+        font-size: 50px;
+
+    }
+
+    .portfolio-ul {
+        position: absolute;
+        left    : 15%;
+        top     : 21%;
+    }
+
+    .portfolio-ul li {
+        float       : left;
+        list-style  : none;
+        font-size   : 39px;
+        margin-right: 20px;
+
+    }
+
+    .port-box1 {
+        background-color: thistle;
+        width           : 39%;
+        height          : 30%;
+        position        : absolute;
+        left            : 7%;
+        top             : 33%;
+    }
+
+    .port-box2 {
+        background-color: thistle;
+        width           : 39%;
+        height          : 30%;
+        position        : absolute;
+        left            : 53%;
+        top             : 33%;
+    }
+
+    .port-box3 {
+        display: none;
+
+
+    }
+
+    .port-box4 {
+        background-color: thistle;
+        width           : 39%;
+        height          : 30%;
+        position        : absolute;
+        left            : 7%;
+        top             : 65%;
+
+
+    }
+
+    .port-box5 {
+        background-color: thistle;
+        width           : 39%;
+        height          : 30%;
+        position        : absolute;
+        left            : 53%;
+        top             : 65%;
+
+    }
+
+    .port-box6 {
+        display: none;
+
+    }
+
+    .b {
+        opacity   : 0.7;
+        transition: all 0.4s;
+    }
+
+    .faq {
+        width           : 100%;
+        height          : 50vh;
+        background-color: grey;
+    }
+
+    .faq-main {
+        position  : absolute;
+        top       : 50%;
+        left      : 50%;
+        transform : translate(-50%, -50%);
+        text-align: center;
+
+    }
+
+    .faq-h {
+        font-size    : 57px;
+        color        : white;
+        margin-bottom: 70px;
+        transition   : all 0.4s;
+
+    }
+
+    .faq-btn {
+        padding  : 20px 35px;
+        font-size: 35px;
+
+    }
+
+    footer {
+        width : 100%;
+        height: 75vh;
+    }
+
+    .footer-main-h1 {
+        font-size  : 63px;
+        color      : black;
+        font-weight: bold;
+        position   : absolute;
+        top        : 10%;
+        left       : 4%;
+    }
+
+    .footer-main-h2 {
+        font-size  : 46px;
+        color      : black;
+        font-weight: bold;
+        position   : absolute;
+        top        : 11%;
+        left       : 52%;
+    }
+
+    .footer-main-p {
+        font-size  : 32px;
+        color      : rgb(0, 0, 0);
+        width      : 40%;
+        position   : absolute;
+        top        : 25%;
+        left       : 4%;
+        line-height: 50px;
+    }
+
+    .footer-main-h3 {
+        font-size: 37px;
+        top      : 62%;
+        left     : 4%;
+    }
+
+    .footer-p1 {
+        position : absolute;
+        top      : 68%;
+        left     : 4%;
+        font-size: 27px;
+
+    }
+
+    .footer-main-h4 {
+        font-size  : 37px;
+        color      : black;
+        font-weight: bold;
+        position   : absolute;
+        top        : 77%;
+        left       : 5%;
+    }
+
+    .footer-p2 {
+        position : absolute;
+        top      : 84%;
+        left     : 6%;
+        font-size: 27px;
+
+    }
+
+    .footer-icon {
+        position : absolute;
+        top      : 89%;
+        left     : 37%;
+        width    : 29%;
+        height   : 50px;
+        /* border: 1px solid black; */
+    }
+
+    .i {
+        font-size   : 45px;
+        margin-right: 20px
+    }
+
+
+    form {
+        width    : 39%;
+        height   : 426px;
+        /* border: 1px solid black; */
+        position : absolute;
+        left     : 51%;
+        top      : 23%;
+    }
+
+    .name {
+        position: absolute;
+        top     : 10%;
+        width   : 100%;
+        height  : 50px;
+    }
+
+    .email {
+        position: absolute;
+        top     : 30%;
+        width   : 100%;
+        height  : 50px;
+
+    }
+
+    .text {
+        position: absolute;
+        top     : 51%;
+        width   : 100%;
+        height  : 78px;
+
+    }
+
+    .f {
+        border       : transparent;
+        border-bottom: 1px solid black;
+        background   : transparent;
+    }
+
+    .f::placeholder {
+        color    : rgb(0, 0, 0);
+        font-size: 30px;
+
+    }
+
+    .form-btn {
+        padding  : 8px 29px;
+        top      : 88%;
+        left     : 0;
+        font-size: 28px;
+
+    }
+
+    .footer-lower {
+        width           : 100%;
+        height          : 67px;
+        position        : absolute;
+        top             : 95%;
+        background-color: black;
+
+    }
+
+    .right-h {
+        position    : absolute;
+        top         : 32%;
+        left        : 5%;
+        font-size   : 22px;
+        color       : white;
+        word-spacing: 10px;
+    }
+
+    .left-h {
+
+        font-size: 20px;
+        position : absolute;
+        top      : 32%;
+        left     : 70%;
+
+    }
+}
+
+@media screen and (max-width:768px) {
+    /* body {
+        background-color: red;
+    } */
+
+    nav {
+        width : 100%;
+        height: 75px;
+
+
+    }
+
+    .nav-h {
+
+        font-size: 34px;
+        position : absolute;
+        top      : 16%;
+        left     : 2%;
+    }
+
+    .nav-ul {
+
+        position: absolute;
+        left    : 22%;
+        top     : 30%;
+
+    }
+
+    .nav-ul li {
+
+        float    : left;
+        font-size: 17px;
+    }
+
+    .nav-icon1 {
+        position : absolute;
+        top      : 32%;
+        left     : 84%;
+        font-size: 25px;
+
+    }
+
+    .nav-icon2 {
+        position     : absolute;
+        top          : 32%;
+        left         : 88%;
+        font-size    : 25px;
+        border-radius: 7px;
+    }
+
+    .nav-icon3 {
+        position : absolute;
+        top      : 32%;
+        left     : 92%;
+        font-size: 25px;
+    }
+
+    header {
+        width              : 100%;
+        height             : 86vh;
+        background-image   : linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.609)), url(../img/intro-bg.jpg);
+        background-size    : cover;
+        background-position: center;
+        position           : relative;
+
+    }
+
+    .header-main {
+
+        transform : translate(-50%, -50%);
+        top       : 50%;
+        left      : 50%;
+        position  : absolute;
+        text-align: center;
+    }
+
+    .header-h1 {
+        color         : white;
+        font-size     : 32px;
+        word-spacing  : 20px;
+        text-transform: capitalize;
+        margin-bottom : 20px;
+    }
+
+    .header-h2 {
+        font-size    : 55px;
+        word-spacing : 20px;
+        margin-bottom: 40px;
+    }
+
+    .header-btn {
+        padding  : 10px;
+        font-size: 17px;
+    }
+
+    .about {
+        width           : 100%;
+        height          : 100vh;
+        background-color: rgb(255, 255, 255);
+        position        : relative;
+    }
+
+    .about-p1 {
+        width    : 15%;
+        height   : 5%;
+        top      : 6%;
+        left     : 43%;
+        font-size: 27px;
+    }
+
+
+
+    .about-h1 {
+        font-size   : 35px;
+        top         : 12%;
+        left        : 37%;
+        word-spacing: 20px;
+    }
+
+
+    .about-h2 {
+        color       : black;
+        font-size   : 30px;
+        position    : absolute;
+        left        : 32%;
+        top         : 26%;
+        word-spacing: 20px;
+    }
+
+    .about-p2 {
+        width       : 77%;
+        color       : black;
+        position    : absolute;
+        top         : 33%;
+        left        : 12%;
+        word-spacing: 15px;
+        font-size   : 24px;
+        text-align  : center;
+    }
+
+    .about-box1 {
+        width : 17%;
+        height: 60px;
+        top   : 85%;
+        left  : 1%;
+
+    }
+
+    .about-box2 {
+        width   : 22%;
+        height  : 60px;
+        position: absolute;
+        top     : 85%;
+        left    : 23%;
+
+    }
+
+    .about-box3 {
+        width   : 18%;
+        height  : 60px;
+        position: absolute;
+        top     : 84%;
+        left    : 53%;
+
+    }
+
+    .about-box4 {
+        width   : 16%;
+        height  : 60px;
+        position: absolute;
+        top     : 83%;
+        left    : 83%;
+
+    }
+
+    .abt-box-p {
+        font-size    : 28px;
+        margin-bottom: 10px;
+    }
+
+    .abt-box-h {
+        font-size: 23px;
+    }
+
+    .about-right {
+        /* border: 1px solid black; */
+        width   : 28%;
+        height  : 247px;
+        position: absolute;
+        top     : 56%;
+        left    : 34%;
+    }
+
+    .abt-icon {
+        font-size: 160px;
+        left     : 21%;
+        top      : 10%;
+    }
+
+    .about-right-h1 {
+        position : absolute;
+        left     : 40%;
+        top      : 0%;
+        font-size: 76px;
+    }
+
+    .about-right-h2 {
+        position : absolute;
+        left     : 13%;
+        top      : 42%;
+        font-size: 29px;
+
+    }
+
+    .service {
+        width : 100%;
+        height: 100vh;
+    }
+
+    .service-main-p {
+        padding  : 4px;
+        left     : 46%;
+        top      : 4%;
+        font-size: 18px;
+    }
+
+    .service-main-h {
+
+        left     : 28%;
+        top      : 11%;
+        font-size: 33px;
+    }
+
+    .service-box1 {
+
+        width : 30%;
+        height: 250px;
+        top   : 22%;
+        left  : 4%;
+
+    }
+
+    .service-box2 {
+
+        width     : 30%;
+        height    : 250px;
+        position  : absolute;
+        top       : 22%;
+        left      : 36%;
+        text-align: center;
+    }
+
+    .service-box3 {
+
+        width     : 30%;
+        height    : 250px;
+        position  : absolute;
+        top       : 22%;
+        left      : 68%;
+        text-align: center;
+    }
+
+    .service-box4 {
+
+        width     : 30%;
+        height    : 250px;
+        position  : absolute;
+        top       : 60%;
+        left      : 4%;
+        text-align: center;
+    }
+
+    .service-box5 {
+
+        width     : 30%;
+        height    : 250px;
+        position  : absolute;
+        top       : 60%;
+        left      : 36%;
+        text-align: center;
+    }
+
+    .service-box6 {
+
+        width     : 30%;
+        height    : 250px;
+        position  : absolute;
+        top       : 60%;
+        left      : 68%;
+        text-align: center;
+    }
+
+    .service-icon {
+
+        font-size: 38px;
+        top      : 2%;
+        left     : 40%;
+    }
+
+    .service-box-h {
+        position : absolute;
+        top      : 30%;
+        font-size: 22px;
+        left     : 21%;
+    }
+
+
+    .service-box-p {
+
+        position : absolute;
+        top      : 48%;
+        width    : 94%;
+        font-size: 15px;
+        left     : 3%;
+
+    }
+
+    .resume {
+        width              : 100%;
+        height             : 140vh;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .resume-main-p {
+        padding  : 5px;
+        left     : 46%;
+        top      : 4%;
+        font-size: 18px;
+    }
+
+
+    .resume-main-h {
+        font-size: 31px;
+        top      : 10%;
+        left     : 30%;
+
+    }
+
+    .resume-h1 {
+
+        top         : 18%;
+        left        : 5%;
+        font-size   : 28px;
+        word-spacing: 13px;
+    }
+
+    .resume-h2 {
+        top      : 18%;
+        left     : 57%;
+        font-size: 27px;
+    }
+
+    .resume-line1 {
+
+        width : 4px;
+        height: 50%;
+        top   : 25%;
+        left  : 5%;
+    }
+
+    .resume-line2 {
+        width : 4px;
+        height: 50%;
+        top   : 25%;
+        left  : 57%;
+    }
+
+    .resume-box1 {
+
+        width   : 38%;
+        height  : 200px;
+        position: absolute;
+        top     : 25%;
+        left    : 7%;
+
+    }
+
+    .resume-box2 {
+
+        width   : 38%;
+        height  : 200px;
+        position: absolute;
+        top     : 44%;
+        left    : 7%;
+
+    }
+
+    .resume-box3 {
+
+        width   : 38%;
+        height  : 200px;
+        position: absolute;
+        top     : 62%;
+        left    : 7%;
+
+    }
+
+    .resume-box4 {
+
+        width        : 38%;
+        height       : 200px;
+        position     : absolute;
+        top          : 25%;
+        left         : 59%;
+        border-bottom: 1px solid black;
+    }
+
+    .resume-box5 {
+
+        width        : 38%;
+        height       : 200px;
+        position     : absolute;
+        top          : 44%;
+        left         : 59%;
+        border-bottom: 1px solid black;
+    }
+
+    .resume-box6 {
+
+        width        : 38%;
+        height       : 200px;
+        position     : absolute;
+        top          : 62%;
+        left         : 59%;
+        border-bottom: 1px solid black;
+    }
+
+    .resume-box-h2 {
+        position : absolute;
+        left     : 1%;
+        top      : 22%;
+        font-size: 20px;
+    }
+
+    .resume-box-h1 {
+        position : absolute;
+        left     : 1%;
+        top      : 2%;
+        font-size: 21px;
+    }
+
+    .resume-box-h2 {
+        position : absolute;
+        left     : 1%;
+        top      : 22%;
+        font-size: 16px;
+    }
+
+    .resume-box-p {
+        position : absolute;
+        top      : 44%;
+        font-size: 18px;
+        left     : 1%;
+    }
+
+    .resume-lower {
+        width      : 100%;
+        height     : 200px;
+        position   : absolute;
+        top        : 82%;
+        /* border  : 1px solid black; */
+
+    }
+
+    .resume-lower-h {
+        font-size: 30px;
+        position : absolute;
+        left     : 10%;
+        top      : 10%;
+    }
+
+    .resume-lower-h2 {
+        position : absolute;
+        top      : 37%;
+        left     : 10%;
+        font-size: 22px;
+    }
+
+    .resume-lower-h3 {
+        position : absolute;
+        top      : 37%;
+        left     : 50%;
+        font-size: 22px;
+    }
+
+    .resume-lower-line1 {
+        width           : 35%;
+        height          : 10px;
+        background-color: grey;
+        position        : absolute;
+        top             : 61%;
+        left            : 10%;
+    }
+
+    .resume-lower-line2 {
+        width           : 35%;
+        height          : 10px;
+        background-color: grey;
+        position        : absolute;
+        top             : 61%;
+        left            : 50%;
+    }
+
+    .inner-line {
+        width           : 75%;
+        height          : 10px;
+        background-color: rgb(255, 217, 0);
+    }
+
+    .portfolio {
+        width              : 100%;
+        height             : 100vh;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .portfolio-main-p {
+
+        padding  : 9px;
+        left     : 43%;
+        top      : 3%;
+        font-size: 22px;
+
+    }
+
+    .portfolio-main-h {
+
+        left     : 26%;
+        top      : 12%;
+        font-size: 33px;
+
+    }
+
+    .portfolio-ul {
+        position: absolute;
+        left    : 20%;
+        top     : 21%;
+    }
+
+    .portfolio-ul li {
+        float       : left;
+        list-style  : none;
+        font-size   : 23px;
+        margin-right: 20px;
+
+    }
+
+    .port-box1 {
+        background-color: thistle;
+        width           : 40%;
+        height          : 240px;
+        position        : absolute;
+        left            : 5%;
+        top             : 33%;
+    }
+
+    .port-box2 {
+        background-color: thistle;
+        width           : 40%;
+        height          : 240px;
+        position        : absolute;
+        left            : 51%;
+        top             : 33%;
+    }
+
+    .port-box3 {
+        background-color: thistle;
+        width           : 29%;
+        height          : 240px;
+        position        : absolute;
+        left            : 69%;
+        top             : 33%;
+
+
+    }
+
+    .port-box4 {
+        background-color: thistle;
+        width           : 40%;
+        height          : 240px;
+        position        : absolute;
+        left            : 5%;
+        top             : 65%;
+
+
+    }
+
+    .port-box5 {
+        background-color: thistle;
+        width           : 40%;
+        height          : 240px;
+        position        : absolute;
+        left            : 51%;
+        top             : 65%;
+
+    }
+
+    .port-box6 {
+        background-color: thistle;
+        width           : 29%;
+        height          : 240px;
+        position        : absolute;
+        left            : 69%;
+        top             : 65%;
+
+    }
+
+    .b {
+        opacity   : 0.7;
+        transition: all 0.4s;
+    }
+
+    .faq {
+        width           : 100%;
+        height          : 50vh;
+        background-color: grey;
+    }
+
+    .faq-main {
+        position  : absolute;
+        top       : 50%;
+        left      : 50%;
+        transform : translate(-50%, -50%);
+        text-align: center;
+
+    }
+
+    .faq-h {
+        font-size    : 40px;
+        color        : white;
+        margin-bottom: 70px;
+        transition   : all 0.4s;
+
+    }
+
+    .faq-btn {
+        padding  : 20px 35px;
+        font-size: 20px;
+
+    }
+
+    footer {
+        width     : 100%;
+        height    : 100vh;
+        background: linear-gradient(rgb(252, 252, 83), rgb(255, 187, 0));
+        position  : relative;
+    }
+
+    .footer-main-h1 {
+        font-size  : 32px;
+        color      : black;
+        font-weight: bold;
+        position   : absolute;
+        top        : 10%;
+        left       : 7%;
+    }
+
+    .footer-main-h2 {
+        font-size  : 35px;
+        color      : black;
+        font-weight: bold;
+        position   : absolute;
+        top        : 10%;
+        left       : 50%;
+    }
+
+    .footer-main-p {
+        font-size  : 21px;
+        color      : rgb(0, 0, 0);
+        width      : 33%;
+        position   : absolute;
+        top        : 22%;
+        left       : 7%;
+        line-height: 30px;
+    }
+
+    .footer-main-h3 {
+        font-size: 26px;
+        top      : 54%;
+        left     : 8%;
+    }
+
+    .footer-p1 {
+        position : absolute;
+        top      : 59%;
+        left     : 8%;
+        font-size: 20px;
+
+    }
+
+    .footer-main-h4 {
+        font-size  : 25px;
+        color      : black;
+        font-weight: bold;
+        position   : absolute;
+        top        : 64%;
+        left       : 8%;
+    }
+
+    .footer-p2 {
+        position : absolute;
+        top      : 69%;
+        left     : 8%;
+        font-size: 20px;
+
+    }
+
+    .footer-icon {
+        position : absolute;
+        top      : 80%;
+        left     : 8%;
+        width    : 29%;
+        height   : 50px;
+        /* border: 1px solid black; */
+    }
+
+    .i {
+        font-size   : 30px;
+        margin-right: 20px
+    }
+
+    .ftr-icon1 {
+        color: blue
+    }
+
+    .ftr-icon2 {
+        color: rgb(255, 255, 255)
+    }
+
+    .ftr-icon3 {
+        color: skyblue
+    }
+
+    .ftr-icon4 {
+        color: red;
+    }
+
+    form {
+        width    : 38%;
+        height   : 47%;
+        /* border: 1px solid black; */
+        position : absolute;
+        left     : 50%;
+        top      : 21%;
+    }
+
+    .name {
+        position: absolute;
+        top     : 10%;
+        width   : 100%;
+        height  : 50px;
+    }
+
+    .email {
+        position: absolute;
+        top     : 30%;
+        width   : 100%;
+        height  : 50px;
+
+    }
+
+    .text {
+        position: absolute;
+        top     : 51%;
+        width   : 100%;
+        height  : 78px;
+
+    }
+
+    .f {
+        border       : transparent;
+        border-bottom: 1px solid black;
+        background   : transparent;
+    }
+
+    .f::placeholder {
+        color    : rgb(0, 0, 0);
+        font-size: 20px;
+
+    }
+
+    .form-btn {
+        padding  : 6px 26px;
+        top      : 85%;
+        left     : 0;
+        font-size: 20px;
+
+    }
+
+    .footer-lower {
+        width           : 100%;
+        height          : 65px;
+        position        : absolute;
+        top             : 95%;
+        background-color: black;
+
+    }
+
+    .right-h {
+        position    : absolute;
+        top         : 34%;
+        left        : 8%;
+        font-size   : 15px;
+        color       : white;
+        word-spacing: 10px;
+    }
+
+    .left-h {
+
+        font-size: 16px;
+        position : absolute;
+        top      : 32%;
+        left     : 70%;
+
+    }
+}
+
+@media (max-width:480px) {
+    /* body {
+        background-color: wheat;
+    } */
+
+    nav {
+        width : 100%;
+        height: 75px;
+
+
+
+    }
+
+    .nav-h {
+
+        font-size: 34px;
+        position : absolute;
+        top      : 16%;
+        left     : 2%;
+    }
+
+    .nav-ul {
+
+        position: absolute;
+        left    : 22%;
+        top     : 30%;
+        display : none;
+
+    }
+
+    .nav-icon1 {
+        position : absolute;
+        top      : 32%;
+        left     : 75%;
+        font-size: 25px;
+
+    }
+
+    .nav-icon2 {
+        position     : absolute;
+        top          : 32%;
+        left         : 84%;
+        font-size    : 25px;
+        border-radius: 7px;
+    }
+
+    .nav-icon3 {
+        position : absolute;
+        top      : 32%;
+        left     : 92%;
+        font-size: 25px;
+    }
+
+    header {
+        width              : 100%;
+        height             : 75vh;
+        background-image   : linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.609)), url(../img/intro-bg.jpg);
+        background-size    : cover;
+        background-position: center;
+        position           : relative;
+
+    }
+
+    .header-main {
+
+        transform : translate(-50%, -50%);
+        top       : 50%;
+        left      : 50%;
+        position  : absolute;
+        text-align: center;
+    }
+
+    .header-h1 {
+        color         : white;
+        font-size     : 32px;
+        word-spacing  : 20px;
+        text-transform: capitalize;
+        margin-bottom : 20px;
+    }
+
+    .header-h2 {
+        font-size    : 55px;
+        word-spacing : 20px;
+        margin-bottom: 40px;
+    }
+
+    .header-btn {
+        padding  : 10px;
+        font-size: 14px;
+    }
+
+    .about {
+        width           : 100%;
+        height          : 115vh;
+        background-color: rgb(255, 255, 255);
+        position        : relative;
+    }
+
+    .about-p1 {
+        width    : 17%;
+        height   : 3%;
+        top      : 6%;
+        left     : 41%;
+        font-size: 20px;
+    }
+
+
+
+    .about-h1 {
+        font-size   : 35px;
+        top         : 12%;
+        left        : 25%;
+        word-spacing: 20px;
+    }
+
+
+    .about-h2 {
+        color       : black;
+        font-size   : 27px;
+        position    : absolute;
+        left        : 22%;
+        top         : 26%;
+        word-spacing: 20px;
+    }
+
+    .about-p2 {
+        width    : 76%;
+        top      : 33%;
+        left     : 12%;
+        font-size: 20px;
+
+    }
+
+    .about-box1 {
+        width : 17%;
+        height: 60px;
+        top   : 85%;
+        left  : 1%;
+
+    }
+
+    .about-box2 {
+        width   : 22%;
+        height  : 60px;
+        position: absolute;
+        top     : 85%;
+        left    : 23%;
+
+    }
+
+    .about-box3 {
+        width   : 18%;
+        height  : 60px;
+        position: absolute;
+        top     : 84%;
+        left    : 53%;
+
+    }
+
+    .about-box4 {
+        width   : 19%;
+        height  : 60px;
+        position: absolute;
+        top     : 84%;
+        left    : 80%;
+
+    }
+
+    .abt-box-p {
+        font-size    : 16px;
+        margin-bottom: 10px;
+    }
+
+    .abt-box-h {
+        font-size: 15px;
+    }
+
+    .about-right {
+        /* border: 1px solid black; */
+        width   : 40%;
+        height  : 167px;
+        position: absolute;
+        top     : 64%;
+        left    : 29%;
+    }
+
+
+    .abt-icon {
+        font-size: 119px;
+        left     : 21%;
+        top      : 10%;
+    }
+
+    .about-right-h1 {
+        position : absolute;
+        left     : 40%;
+        top      : 0%;
+        font-size: 48px;
+    }
+
+    .about-right-h2 {
+        position : absolute;
+        left     : 13%;
+        top      : 47%;
+        font-size: 21px;
+
+    }
+
+    .service {
+        width : 100%;
+        height: 130vh;
+    }
+
+    .service-main-p {
+        padding  : 4px;
+        left     : 42%;
+        top      : 4%;
+        font-size: 18px;
+    }
+
+    .service-main-h {
+        left     : 16%;
+        top      : 11%;
+        font-size: 28px;
+    }
+
+    .service-box1 {
+
+        width : 45%;
+        height: 250px;
+        top   : 22%;
+        left  : 4%;
+
+    }
+
+    .service-box2 {
+        width     : 45%;
+        height    : 250px;
+        position  : absolute;
+        top       : 22%;
+        left      : 51%;
+        text-align: center;
+    }
+
+    .service-box3 {
+
+        display: none;
+    }
+
+    .service-box4 {
+
+        width     : 45%;
+        height    : 250px;
+        position  : absolute;
+        top       : 60%;
+        left      : 4%;
+        text-align: center;
+    }
+
+    .service-box5 {
+
+        width     : 45%;
+        height    : 250px;
+        position  : absolute;
+        top       : 60%;
+        left      : 51%;
+        text-align: center;
+    }
+
+    .service-box6 {
+
+        display: none;
+    }
+
+    .service-icon {
+
+        font-size: 38px;
+        top      : 2%;
+        left     : 40%;
+    }
+
+    .service-box-h {
+        position : absolute;
+        top      : 30%;
+        font-size: 22px;
+        left     : 21%;
+    }
+
+    .web {
+        left: 27%;
+    }
+
+    .service-box-p {
+
+        position : absolute;
+        top      : 48%;
+        width    : 94%;
+        font-size: 15px;
+        left     : 3%;
+
+    }
+
+    .resume {
+        width              : 100%;
+        height             : 157vh;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .resume-main-p {
+        padding  : 5px;
+        left     : 43%;
+        top      : 4%;
+        font-size: 18px;
+    }
+
+
+    .resume-main-h {
+        font-size: 31px;
+        top      : 10%;
+        left     : 19%;
+
+    }
+
+    .resume-h1 {
+        top         : 19%;
+        left        : 6%;
+        font-size   : 24px;
+        word-spacing: 9px;
+    }
+
+    .resume-h2 {
+        top         : 19%;
+        left        : 53%;
+        font-size   : 24px;
+        word-spacing: 9px;
+    }
+
+    .resume-line1 {
+
+        width : 4px;
+        height: 530px;
+        top   : 25%;
+        left  : 4%;
+    }
+
+    .resume-line2 {
+        width : 4px;
+        height: 530px;
+        top   : 25%;
+        left  : 52%;
+    }
+
+    .resume-box1 {
+
+        width   : 44%;
+        height  : 250px;
+        position: absolute;
+        top     : 25%;
+        left    : 7%;
+
+    }
+
+    .resume-box2 {
+
+        width   : 44%;
+        height  : 250px;
+        position: absolute;
+        top     : 52%;
+        left    : 7%;
+
+    }
+
+    .resume-box3 {
+
+        display: none;
+
+    }
+
+    .resume-box4 {
+
+        width        : 44%;
+        height       : 250px;
+        position     : absolute;
+        top          : 25%;
+        left         : 56%;
+        border-bottom: 1px solid black;
+    }
+
+    .resume-box5 {
+
+        width        : 38%;
+        height       : 250px;
+        position     : absolute;
+        top          : 52%;
+        left         : 56%;
+        border-bottom: 1px solid black;
+    }
+
+    .resume-box6 {
+
+        display: none;
+    }
+
+    .resume-box-h2 {
+        position : absolute;
+        left     : 1%;
+        top      : 22%;
+        font-size: 20px;
+    }
+
+    .resume-box-h1 {
+        position : absolute;
+        left     : 1%;
+        top      : 2%;
+        font-size: 21px;
+    }
+
+    .resume-box-h2 {
+        position : absolute;
+        left     : 1%;
+        top      : 28%;
+        font-size: 14px;
+    }
+
+    .resume-box-p {
+        position : absolute;
+        top      : 44%;
+        font-size: 15px;
+        left     : 1%;
+        width    : 90%;
+    }
+
+    .resume-lower {
+        width      : 100%;
+        height     : 200px;
+        position   : absolute;
+        top        : 82%;
+        /* border  : 1px solid black; */
+
+    }
+
+    .resume-lower-h {
+        font-size: 30px;
+        position : absolute;
+        left     : 7%;
+        top      : 4%;
+    }
+
+    .resume-lower-h2 {
+        position : absolute;
+        top      : 42%;
+        left     : 7%;
+        font-size: 20px;
+    }
+
+    .resume-lower-h3 {
+        position : absolute;
+        top      : 41%;
+        left     : 51%;
+        font-size: 22px;
+    }
+
+    .resume-lower-line1 {
+        width           : 35%;
+        height          : 10px;
+        background-color: grey;
+        position        : absolute;
+        top             : 67%;
+        left            : 7%;
+    }
+
+    .resume-lower-line2 {
+        width           : 35%;
+        height          : 10px;
+        background-color: grey;
+        position        : absolute;
+        top             : 67%;
+        left            : 50%;
+    }
+
+    .inner-line {
+        width           : 75%;
+        height          : 10px;
+        background-color: rgb(255, 217, 0);
+    }
+
+    .portfolio {
+        width              : 100%;
+        height             : 125vh;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .portfolio-main-p {
+        padding  : 4px;
+        left     : 41%;
+        top      : 3%;
+        font-size: 19px;
+
+    }
+
+    .portfolio-main-h {
+
+        left     : 18%;
+        top      : 10%;
+        font-size: 27px;
+
+    }
+
+    .portfolio-ul {
+        position: absolute;
+        left    : 4%;
+        top     : 22%;
+        width   : 96%;
+    }
+
+    .portfolio-ul li {
+        float       : left;
+        list-style  : none;
+        font-size   : 19px;
+        margin-right: 19px;
+
+    }
+
+    .port-box1 {
+        background-color: thistle;
+        width           : 44%;
+        height          : 240px;
+        position        : absolute;
+        left            : 5%;
+        top             : 33%;
+    }
+
+    .port-box2 {
+        background-color: thistle;
+        width           : 44%;
+        height          : 240px;
+        position        : absolute;
+        left            : 52%;
+        top             : 33%;
+    }
+
+    .port-box3 {
+        display: none;
+
+
+    }
+
+    .port-box4 {
+        background-color: thistle;
+        width           : 44%;
+        height          : 240px;
+        position        : absolute;
+        left            : 5%;
+        top             : 65%;
+
+
+    }
+
+    .port-box5 {
+        background-color: thistle;
+        width           : 44%;
+        height          : 240px;
+        position        : absolute;
+        left            : 52%;
+        top             : 65%;
+
+    }
+
+    .port-box6 {
+        display: none;
+
+    }
+
+    .b {
+        opacity   : 0.7;
+        transition: all 0.4s;
+    }
+
+    .faq {
+        width : 100%;
+        height: 320px;
+    }
+
+    .faq-h {
+        font-size    : 28px;
+        color        : white;
+        margin-bottom: 50px;
+
+    }
+
+    .faq-btn {
+        padding: 10px 21px;
+    }
+
+    footer {
+        width : 100%;
+        height: 160vh;
+    }
+
+    .footer-main-h1 {
+        font-size: 33px;
+        top      : 10%;
+        left     : 26%;
+    }
+
+    .footer-main-h2 {
+        font-size: 31px;
+        top      : 35%;
+        left     : 22%;
+    }
+
+    .footer-main-p {
+        font-size : 21px;
+        width     : 70%;
+        top       : 17%;
+        left      : 15%;
+        text-align: center;
+    }
+
+    .footer-main-h3 {
+        font-size: 26px;
+        top      : 75%;
+        left     : 8%;
+    }
+
+    .footer-p1 {
+        position: absolute;
+        top     : 79%;
+        left    : 8%;
+
+    }
+
+    .footer-main-h4 {
+        font-size  : 25px;
+        color      : black;
+        font-weight: bold;
+        position   : absolute;
+        top        : 75%;
+        left       : 63%;
+    }
+
+    .footer-p2 {
+        position: absolute;
+        top     : 79%;
+        left    : 64%;
+
+    }
+
+    .footer-icon {
+        position : absolute;
+        top      : 89%;
+        left     : 30%;
+        width    : 47%;
+        height   : 50px;
+        /* border: 1px solid black; */
+    }
+
+
+    form {
+        width    : 58%;
+        height   : 306px;
+        /* border: 1px solid black; */
+        position : absolute;
+        left     : 22%;
+        top      : 40%;
+    }
+
+    .footer-lower {
+        width           : 100%;
+        height          : 65px;
+        position        : absolute;
+        top             : 95%;
+        background-color: black;
+
+    }
+
+    .right-h {
+        position    : absolute;
+        top         : 36%;
+        left        : 4%;
+        font-size   : 12px;
+        color       : white;
+        word-spacing: 7px;
+    }
+
+    .left-h {
+
+        font-size   : 11px;
+        position    : absolute;
+        top         : 37%;
+        left        : 64%;
+        word-spacing: 7px;
+
+    }
+
+}
+
+@media (max-width:360px) {
+/* 
+    body {
+        background-color: blueviolet;
+    } */
+
+    nav {
+        width : 100%;
+        height: 75px;
+    }
+
+    .nav-h {
+
+        font-size: 34px;
+        position : absolute;
+        top      : 16%;
+        left     : 2%;
+    }
+
+    .nav-ul {
+
+        position: absolute;
+        left    : 22%;
+        top     : 30%;
+        display : none;
+
+    }
+
+    .nav-icon1 {
+        position : absolute;
+        top      : 32%;
+        left     : 75%;
+        font-size: 25px;
+
+    }
+
+    .nav-icon2 {
+        position     : absolute;
+        top          : 32%;
+        left         : 84%;
+        font-size    : 25px;
+        border-radius: 7px;
+    }
+
+    .nav-icon3 {
+        position : absolute;
+        top      : 32%;
+        left     : 92%;
+        font-size: 25px;
+    }
+
+    header {
+        width              : 100%;
+        height             : 75vh;
+        background-image   : linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.609)), url(../img/intro-bg.jpg);
+        background-size    : cover;
+        background-position: center;
+        position           : relative;
+
+    }
+
+    .header-main {
+
+        transform : translate(-50%, -50%);
+        top       : 50%;
+        left      : 50%;
+        position  : absolute;
+        text-align: center;
+    }
+
+    .header-h1 {
+        color         : white;
+        font-size     : 32px;
+        word-spacing  : 20px;
+        text-transform: capitalize;
+        margin-bottom : 20px;
+    }
+
+    .header-h2 {
+        font-size    : 55px;
+        word-spacing : 20px;
+        margin-bottom: 40px;
+    }
+
+    .header-btn {
+        padding  : 10px;
+        font-size: 14px;
+    }
+
+    .about {
+        width           : 100%;
+        height          : 130vh;
+        background-color: rgb(255, 255, 255);
+        position        : relative;
+    }
+
+    .about-p1 {
+        width    : 22%;
+        height   : 3%;
+        top      : 6%;
+        left     : 40%;
+        font-size: 19px;
+    }
+
+
+
+    .about-h1 {
+        font-size   : 33px;
+        top         : 12%;
+        left        : 19%;
+        word-spacing: 20px;
+    }
+
+
+    .about-h2 {
+        color       : black;
+        font-size   : 27px;
+        position    : absolute;
+        left        : 15%;
+        top         : 23%;
+        word-spacing: 20px;
+    }
+
+    .about-p2 {
+        width    : 76%;
+        top      : 29%;
+        left     : 12%;
+        font-size: 20px;
+
+    }
+
+    .about-box1 {
+        width : 24%;
+        height: 60px;
+        top   : 85%;
+        left  : 10%;
+
+    }
+
+    .about-box2 {
+        width   : 28%;
+        height  : 60px;
+        position: absolute;
+        top     : 85%;
+        left    : 62%;
+
+    }
+
+    .about-box3 {
+        display: none;
+
+    }
+
+    .about-box4 {
+        display: none;
+
+    }
+
+    .abt-box-p {
+        font-size    : 16px;
+        margin-bottom: 10px;
+    }
+
+    .abt-box-h {
+        font-size: 15px;
+    }
+
+    .about-right {
+        /* border: 1px solid black; */
+        width   : 40%;
+        height  : 167px;
+        position: absolute;
+        top     : 66%;
+        left    : 27%;
+    }
+
+
+    .abt-icon {
+        font-size: 119px;
+        left     : 17%;
+        top      : 10%;
+    }
+
+    .about-right-h1 {
+        position : absolute;
+        left     : 40%;
+        top      : 0%;
+        font-size: 48px;
+    }
+
+    .about-right-h2 {
+        position : absolute;
+        left     : 13%;
+        top      : 47%;
+        font-size: 21px;
+
+    }
+
+    .service {
+        width : 100%;
+        height: 115vh;
+    }
+
+    .service-main-p {
+        padding  : 4px;
+        left     : 42%;
+        top      : 4%;
+        font-size: 18px;
+    }
+
+    .service-main-h {
+        left     : 9%;
+        top      : 11%;
+        font-size: 25px;
+    }
+
+    .service-box1 {
+        width: 78%;
+        height: 250px;
+        top: 27%;
+        left: 12%;
+
+    }
+
+    .service-box2 {
+        display: none;
+    }
+
+    .service-box3 {
+
+        display: none;
+    }
+
+    .service-box4 {
+
+        width: 79%;
+    height: 250px;
+    position: absolute;
+    top: 62%;
+    left: 12%;
+    text-align: center;
+    }
+
+    .service-box5 {
+        display: none;
+    }
+
+    .service-box6 {
+
+        display: none;
+    }
+
+    .service-icon {
+
+        font-size: 51px;
+        top      : 2%;
+        left     : 39%;
+    }
+
+    .service-box-h {
+        position : absolute;
+        top      : 30%;
+        font-size: 22px;
+        left     : 25%;
+    }
+
+    .web {
+        left: 27%;
+    }
+
+    .service-box-p {
+
+        position : absolute;
+        top      : 48%;
+        width    : 94%;
+        font-size: 15px;
+        left     : 3%;
+
+    }
+
+    .resume {
+        width              : 100%;
+        height             : 145vh;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .resume-main-p {
+        padding  : 5px;
+        left     : 42%;
+        top      : 4%;
+        font-size: 17px;
+    }
+
+
+    .resume-main-h {
+        font-size: 27px;
+        top      : 10%;
+        left     : 15%;
+
+    }
+
+    .resume-h1 {
+        top: 19%;
+        left: 29%;
+        font-size: 24px;
+        word-spacing: 9px;
+    }
+
+    .resume-h2 {
+       display: none;
+    }
+
+    .resume-line1 {
+
+        width : 4px;
+        height: 440px;
+        top   : 25%;
+        left  : 4%;
+    }
+
+    .resume-line2 {
+     display: none;
+    }
+
+    .resume-box1 {
+
+        width   : 85%;
+        height  : 200px;
+        position: absolute;
+        top     : 25%;
+        left    : 10%;
+
+    }
+
+    .resume-box2 {
+
+        width   : 85%;
+        height  : 200px;
+        position: absolute;
+        top     : 52%;
+        left    : 10%;
+
+    }
+
+    .resume-box3 {
+
+        display: none;
+
+    }
+
+    .resume-box4 {
+
+        display: none;
+    }
+
+    .resume-box5 {
+        display: none;
+    }
+
+    .resume-box6 {
+
+        display: none;
+    }
+
+    .resume-box-h2 {
+        position : absolute;
+        left     : 1%;
+        top      : 22%;
+        font-size: 20px;
+    }
+
+    .resume-box-h1 {
+        position : absolute;
+        left     : 1%;
+        top      : 2%;
+        font-size: 21px;
+    }
+
+    .resume-box-h2 {
+        position: absolute;
+    left: 1%;
+    top: 18%;
+    font-size: 18px;
+    }
+
+    .resume-box-p {
+        position: absolute;
+        top: 47%;
+        font-size: 18px;
+        left: 1%;
+        width: 90%;
+    }
+
+    .resume-lower {
+        width      : 100%;
+        height     : 200px;
+        position   : absolute;
+        top        : 82%;
+        /* border  : 1px solid black; */
+
+    }
+
+    .resume-lower-h {
+        font-size: 30px;
+        position : absolute;
+        left     : 35%;
+        top      : 4%;
+    }
+
+    .resume-lower-h2 {
+        position : absolute;
+        top      : 42%;
+        left     : 7%;
+        font-size: 20px;
+    }
+
+    .resume-lower-h3 {
+        position : absolute;
+        top      : 41%;
+        left     : 57%;
+        font-size: 22px;
+    }
+
+    .resume-lower-line1 {
+        width           : 35%;
+        height          : 10px;
+        background-color: grey;
+        position        : absolute;
+        top             : 67%;
+        left            : 7%;
+    }
+
+    .resume-lower-line2 {
+        width           : 35%;
+        height          : 10px;
+        background-color: grey;
+        position        : absolute;
+        top             : 67%;
+        left            : 57%;
+    }
+
+    .inner-line {
+        width           : 75%;
+        height          : 10px;
+        background-color: rgb(255, 217, 0);
+    }
+
+    .portfolio {
+        width              : 100%;
+        height             : 125vh;
+        /* background-color: grey; */
+        position           : relative;
+    }
+
+    .portfolio-main-p {
+        padding  : 4px;
+        left     : 41%;
+        top      : 3%;
+        font-size: 19px;
+
+    }
+
+    .portfolio-main-h {
+
+        left: 12%;
+        top: 10%;
+        font-size: 23px;
+
+    }
+
+    .portfolio-ul {
+        position: absolute;
+        left: 4%;
+        top: 20%;
+        width: 96%;
+    }
+
+    .portfolio-ul li {
+        float       : left;
+        list-style  : none;
+        font-size   : 14px;
+        margin-right: 19px;
+
+    }
+
+    .port-box1 {
+        background-color: thistle;
+        width: 81%;
+        height: 240px;
+        position: absolute;
+        left: 10%;
+        top: 30%;
+    }
+
+    .port-box2 {
+        display: none;
+    }
+
+    .port-box3 {
+        display: none;
+
+
+    }
+
+    .port-box4 {
+        background-color: thistle;
+        width           : 81%;
+        height          : 240px;
+        position        : absolute;
+        left            : 10%;
+        top             : 65%;
+
+
+    }
+
+    .port-box5 {
+      display: none;
+
+    }
+
+    .port-box6 {
+        display: none;
+
+    }
+
+    .b {
+        opacity   : 0.7;
+        transition: all 0.4s;
+    }
+
+    .faq {
+        width : 100%;
+        height: 320px;
+    }
+
+    .faq-h {
+        font-size    : 28px;
+        color        : white;
+        margin-bottom: 50px;
+
+    }
+
+    .faq-btn {
+        padding: 10px 21px;
+    }
+
+    footer {
+        width : 100%;
+        height: 160vh;
+    }
+
+    .footer-main-h1 {
+        font-size: 30px;
+        top: 7%;
+        left: 22%;
+    }
+
+    .footer-main-h2 {
+        font-size: 28px;
+        top: 35%;
+        left: 18%;
+    }
+
+    .footer-main-p {
+        font-size: 21px;
+    width: 79%;
+    top: 14%;
+    left: 10%;
+    text-align: center;
+    }
+
+    .footer-main-h3 {
+        font-size: 22px;
+        top: 75%;
+        left: 8%;
+    }
+
+    .footer-p1 {
+        position: absolute;
+        top: 79%;
+        left: 8%;
+        font-size: 15px;
+
+    }
+
+    .footer-main-h4 {
+        font-size  : 22px;
+        color      : black;
+        font-weight: bold;
+        position   : absolute;
+        top        : 75%;
+        left       : 63%;
+    }
+
+    .footer-p2 {
+        position: absolute;
+        top     : 79%;
+        left    : 64%;
+        font-size: 15px;
+
+    }
+
+    .footer-icon {
+        position: absolute;
+        top: 89%;
+        left: 25%;
+        width: 57%;
+        height: 50px;
+        /* border: 1px solid black; */
+    }
+
+
+    form {
+        width: 64%;
+    height: 306px;
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 19%;
+    top: 40%;
+    }
+
+    .footer-lower {
+        width           : 100%;
+        height          : 65px;
+        position        : absolute;
+        top             : 95%;
+        background-color: black;
+
+    }
+
+    .right-h {
+        position: absolute;
+    top: 38%;
+    left: 4%;
+    font-size: 10px;
+    color: white;
+    word-spacing: 3px;
+    }
+
+    .left-h {
+
+        font-size: 10px;
+        position: absolute;
+        top: 37%;
+        left: 64%;
+        word-spacing: 4px;
+
+    }
+    .f::placeholder {
+        color    : rgb(0, 0, 0);
+        font-size: 17px;
+
+    }
+
+
+}
